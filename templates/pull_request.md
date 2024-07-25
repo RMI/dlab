@@ -1,6 +1,7 @@
 When opening a new PR, first copy this markdown template into the description. Then fill in the relevant details in the first section above the [Review Checklist](#review-checklist), and delete this section.
 
 Once created, copy the link to the PR into the DLab slack channel, and make any specific requests for reviewers if appropriate.
+You can refer to [Github's Markdown Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for syntax details.
 
 ----------
 
